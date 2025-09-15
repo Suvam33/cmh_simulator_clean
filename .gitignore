@@ -1,0 +1,14 @@
+﻿# Dependencies
+node_modules/
+functions/node_modules/
+
+# Firebase service account key
+functions/service-account.json
+
+# Environment files
+*.env
+
+# System/IDE files
+.DS_Store
+.vscode/
+
